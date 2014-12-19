@@ -10,7 +10,6 @@ is $routing->get_route(0)->get_step(2)->origin_line_station->station->name, 'Hau
 
 $routing = $graph->routing_for('Osthorn', 'Holmenkollen');
 
-is $routing->get_route(0)->get_step(10)->origin_line_station->station->name, 'Gaustad', 'Found Gaustad';
-
+is $routing->get_route(0)->get_step(11)->origin_line_station->station->name, 'Gaustad', 'Found Gaustad';
 
 done_testing;
