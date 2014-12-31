@@ -13,11 +13,11 @@ See [Map::Metro](https://metacpan.org/pod/Map::Metro) for usage information.
 
 # Status
 
-This map is currently (2014-12-19) believed to be correct, with these disclaimers:
+This map is currently (2014-12-19) believed to be correct ([wikipedia](https://en.wikipedia.org/wiki/Oslo_metro)).
+
+Note:
 
 \* Line 1 stops at Helsfyr.
-
-\* Line 1 stops at Gulleråsen in both directions.
 
 # AUTHOR
 
