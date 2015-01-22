@@ -4,7 +4,7 @@ Map::Metro::Plugin::Map::Oslo - Map::Metro map for Oslo
 
 # VERSION
 
-Version 0.1102, released 2015-01-22.
+Version 0.1103, released 2015-01-22.
 
 # SYNOPSIS
 
@@ -13,7 +13,7 @@ Version 0.1102, released 2015-01-22.
 
 Or:
 
-        map-metro.pl route Oslo Veitvet Holmenkollen
+        $ map-metro.pl route Oslo Veitvet Holmenkollen
 
 # DESCRIPTION
 

@@ -45,7 +45,7 @@
    "provides" : {
       "Map::Metro::Plugin::Map::Oslo" : {
          "file" : "lib/Map/Metro/Plugin/Map/Oslo.pm",
-         "version" : "0.1102"
+         "version" : "0.1103"
       }
    },
    "release_status" : "stable",
@@ -60,6 +60,6 @@
          "web" : "https://github.com/Csson/p5-Map-Metro-Oslo"
       }
    },
-   "version" : "0.1102"
+   "version" : "0.1103"
 }
 
