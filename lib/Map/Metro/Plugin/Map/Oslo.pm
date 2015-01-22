@@ -32,7 +32,7 @@ __END__
 
 Or:
 
-	map-metro.pl route Oslo Veitvet Holmenkollen
+	$ map-metro.pl route Oslo Veitvet Holmenkollen
 
 =head1 DESCRIPTION
 
