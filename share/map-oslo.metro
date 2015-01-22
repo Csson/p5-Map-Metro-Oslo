@@ -116,13 +116,12 @@ Nydalen
 Storo
 
 --lines
-1|Line 1|Purple line
-1g|Line 1|Purple line
-2|Line 2|Light blue line
-3|Line 3|Yellow line
-4|Line 4|Dark blue line
-5|Line 5|Orange line
-6|Line 6|Green line
+1|Line 1|Purple line|color:#7b88b3
+2|Line 2|Light blue line|color:#00add9
+3|Line 3|Yellow line|color:#ef9e45
+4|Line 4|Dark blue line|color:#004c8a
+5|Line 5|Orange line|color:#e55c35
+6|Line 6|Green line|color:#3cae55
 
 --segments
 1|Frognerseteren|Voksenkollen
@@ -175,6 +174,7 @@ Storo
 6|Tåsen|Berg
 6|Berg|Ullevål stadion
 
+6|Storo|Sinsen
 6|Sinsen|Carl Berners plass
 
 5|Vestli|Stovner
