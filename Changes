@@ -4,17 +4,27 @@ Revision history for Map-Metro-Plugin-Map-Oslo
  [API Changes]
 
  [Bug Fixes]
+ - Removed no longer used line (line 1 used to have one line in each direction due to Gulleråsen).
 
  [Documentation]
+ - Added visualization.
+ - Added detailed line information.
+ - Rebuilt with podweaver.
 
  [Enhancements]
 
  [Meta]
- - Fixed prereqs.
 
  [New Features]
 
  [Revision]
+
+ [Requirements]
+ - Bumped Map::Metro req to 0.2206.
+
+0.1101 2014-12-31T17:02:50Z CET
+ [Meta]
+ - Fixed prereqs.
 
 0.1100 2014-12-30T22:35:09Z CET
  [Enhancements]
