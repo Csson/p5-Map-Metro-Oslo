@@ -3,6 +3,7 @@ use 5.14.0;
 package Map::Metro::Plugin::Map::Oslo;
 
 # VERSION
+# ABSTRACT: Map::Metro map for Oslo
 
 use Moose;
 
@@ -24,14 +25,14 @@ __END__
 
 =encoding utf-8
 
-=head1 NAME
-
-Map::Metro::Plugin::Map::Oslo - Map::Metro map for Oslo
-
 =head1 SYNOPSIS
 
     use Map::Metro;
     my $graph = Map::Metro->new('Oslo')->parse;
+
+Or:
+
+	map-metro.pl route Oslo Veitvet Holmenkollen
 
 =head1 DESCRIPTION
 
@@ -39,23 +40,15 @@ See L<Map::Metro> for usage information.
 
 =head1 Status
 
-This map is currently (2014-12-19) believed to be correct (L<wikipedia|https://en.wikipedia.org/wiki/Oslo_metro>).
+This map L<contains|Map::Metro::Plugin::Map::Oslo::Lines>:
 
-Note:
+=for :list
+* All six metro lines [L<wikipedia|https://en.wikipedia.org/wiki/Oslo_metro>]
 
-* Line 1 stops at Helsfyr.
+=head2 Note
 
-=head1 AUTHOR
+Line 1 terminates at Helsfyr.
 
-Erik Carlsson E<lt>info@code301.comE<gt>
-
-=head1 COPYRIGHT
-
-Copyright 2014 - Erik Carlsson
-
-=head1 LICENSE
-
-This library is free software; you can redistribute it and/or modify
-it under the same terms as Perl itself.
+=for HTML <p><a href="https://raw.githubusercontent.com/Csson/p5-Map-Metro-Oslo/master/static/images/oslo.png"><img src="https://raw.githubusercontent.com/Csson/p5-Map-Metro-Oslo/master/static/images/oslo.png" style="max-width: 600px" /></a></p>
 
 =cut
