@@ -6,8 +6,6 @@ Revision history for Map-Metro-Plugin-Map-Oslo
  [Bug Fixes]
 
  [Documentation]
- - Fixed visualization (removed debug information).
- - Slightly improved synopsis.
 
  [Enhancements]
 
@@ -18,6 +16,11 @@ Revision history for Map-Metro-Plugin-Map-Oslo
  [Requirements]
 
  [Revision]
+
+0.1103 2015-01-22T11:11:40Z CET
+ [Documentation]
+ - Fixed visualization (removed debug information).
+ - Slightly improved synopsis.
 
 0.1102 2015-01-22T11:04:26Z CET
  [Bug Fixes]
