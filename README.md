@@ -2,9 +2,11 @@
 
 Map::Metro::Plugin::Map::Oslo - Map::Metro map for Oslo
 
+![Requires Perl 5.16+](https://img.shields.io/badge/perl-5.16+-brightgreen.svg) [![Travis status](https://api.travis-ci.org/Csson/p5-Map-Metro-Oslo.svg?branch=master)](https://travis-ci.org/Csson/p5-Map-Metro-Oslo) ![coverage 69.2%](https://img.shields.io/badge/coverage-69.2%-red.svg)
+
 # VERSION
 
-Version 0.1103, released 2015-01-22.
+Version 0.1104, released 2016-01-24.
 
 # SYNOPSIS
 
@@ -43,7 +45,7 @@ Erik Carlsson <info@code301.com>
 
 # COPYRIGHT AND LICENSE
 
-This software is copyright (c) 2015 by Erik Carlsson <info@code301.com>.
+This software is copyright (c) 2016 by Erik Carlsson.
 
 This is free software; you can redistribute it and/or modify it under
 the same terms as the Perl 5 programming language system itself.
