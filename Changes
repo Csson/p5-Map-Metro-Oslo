@@ -9,14 +9,17 @@ Revision history for Map-Metro-Plugin-Map-Oslo
 
  [Enhancements]
 
- [Other Changes]
-  - Rebuilt with latest Dist::Iller::Config::Author::CSSON(::MapMetro).
-
  [New Features]
+
+ [Other Changes]
 
  [Requirements]
 
- [Revision]
+ [Testing]
+
+0.1104 2016-01-24T14:27:55Z UTC
+ [Other Changes]
+ - Rebuilt with latest Dist::Iller::Config::Author::CSSON(::MapMetro).
 
 0.1103 2015-01-22T11:11:40Z CET
  [Documentation]
@@ -54,3 +57,4 @@ Revision history for Map-Metro-Plugin-Map-Oslo
 
 0.1000 2014-12-21T00:22:00Z CET
  - Initial release
+
