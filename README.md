@@ -2,7 +2,7 @@
 
 Map::Metro::Plugin::Map::Oslo - Map::Metro map for Oslo
 
-![Requires Perl 5.14+](https://img.shields.io/badge/perl-5.14+-brightgreen.svg) [![Travis status](https://api.travis-ci.org/Csson/p5-Map-Metro-Oslo.svg?branch=master)](https://travis-ci.org/Csson/p5-Map-Metro-Oslo) 
+![Requires Perl 5.16+](https://img.shields.io/badge/perl-5.16+-brightgreen.svg) [![Travis status](https://api.travis-ci.org/Csson/p5-Map-Metro-Oslo.svg?branch=master)](https://travis-ci.org/Csson/p5-Map-Metro-Oslo) ![coverage 69.2%](https://img.shields.io/badge/coverage-69.2%-red.svg)
 
 # VERSION
 
